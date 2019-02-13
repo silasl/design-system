@@ -29,7 +29,6 @@
   "homepage": "https://github.com/hmrc/design-system#readme",
   "dependencies": {
     "govuk-frontend": "^2.0.0",
-    "gulp-standard": "^12.0.0",
     "hmrc-frontend": "github:hmrc/hmrc-frontend#package-latest"
   },
   "devDependencies": {
@@ -46,6 +45,7 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.1",
     "gulp-sequence": "^1.0.0",
+    "gulp-standard": "^12.0.0",
     "highlight.js": "^9.14.1",
     "jest": "^23.6.0",
     "jquery": "^1.12.4",

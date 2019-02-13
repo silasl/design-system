@@ -17,6 +17,7 @@ gulp.task('lint:gulpTasks', () => {
       quiet: true
     }))
 })
+
 gulp.task('lint:applicationScripts', () => {
   return gulp.src([
     pathFromRoot('application', 'filters', '*.js'),
